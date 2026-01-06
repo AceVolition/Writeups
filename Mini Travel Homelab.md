@@ -1,4 +1,5 @@
 1. The Mini Travel Homelab
+
 • What is it? This homelab is for people who are new to IT or have an interest in
 homelab and don't want to spend an upfront cost but also do not want to setup a
 fully racked server using an eBay bought R730 which consumes a lot of electricity
