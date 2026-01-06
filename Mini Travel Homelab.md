@@ -76,3 +76,4 @@ or won't work.
 around with a network virus in the future ( )
 • Final Thought: I would recommend this setup to people starting in IT or who have
 an interest in homelab or have a raspberry pi sitting in the closet collecting dust.
+d
