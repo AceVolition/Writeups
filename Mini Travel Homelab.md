@@ -21,7 +21,7 @@ o Have a portable setup for secure travel.
 
 o Help newcomers into IT or into Homelab/Infrastructure
 
-4. The Gear – Hardware Showcase
+3. The Gear – Hardware Showcase
 ![2](https://github.com/user-attachments/assets/8d4db494-a21a-41fc-91bc-0f3eea2a41d7)
 
 Router: GL.iNet GL-MT3000 (Beryl AX)
@@ -60,31 +60,39 @@ o ”How can I setup ubuntu server on raspberry pi 5 I have a 256GB SD card
 I also have Gl.inet as a router that the raspberry pi 5 will connect to by
 ethernet this is in case any complication happens as we want the
 raspberry pi 5 to be able to have access to the internet.”
-
 ![5](https://github.com/user-attachments/assets/df577088-dad3-4479-8c80-2dd8f43b2702)
 
-7. The Journey – Challenges & Solutions
+6. The Journey – Challenges & Solutions
+
 • Originally I wanted to use an M.2 SSD that I use to use in a gaming computer that I
 don't use anymore onto the raspberry pi 5 and after 5 hours of research I have found
 out this SSD does not work on the raspberry pi 5 on a fourm post and it's probably
 because the speed is to fast it's an M.2 Gen4 after all.
+
 • So instead of using the M.2 SSD, I decided to use the 256GB SD card instead of the
 M.2 SSD.
 
-8. The Payoff – What It Does & Use Cases
+7. The Payoff – What It Does & Use Cases
+
 • My daily use.
+
 o Mess with docker
+
 o Testing environment
+
 o Used as a honeypot
 
-9. Conclusion – Lessons Learned & Future Plans
+8. Conclusion – Lessons Learned & Future Plans
+
 • Summary: My favorite part from doing this is learning more on how to mess with
 raspberry pi and learned to format the SD card and into booting up an ubuntu server
 on the raspberry pi I also learned that M.2 SSD cards even Tho works on PC may not
 work on every hardware (such as the raspberry pi). For now, I use the raspberry pi 5
 to mess around with docker stuff as running virtual machines on it can be too heavy
 or won't work.
+
 • Future Ideas: Add a M.2 SSD on the raspberry pi 5, VPN, Honeypot and mess
 around with a network virus in the future ( )
+
 • Final Thought: I would recommend this setup to people starting in IT or who have
 an interest in homelab or have a raspberry pi sitting in the closet collecting dust.
