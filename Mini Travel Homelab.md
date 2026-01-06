@@ -67,10 +67,8 @@ raspberry pi 5 to be able to have access to the internet.”
 • Originally I wanted to use an M.2 SSD that I use to use in a gaming computer that I
 don't use anymore onto the raspberry pi 5 and after 5 hours of research I have found
 out this SSD does not work on the raspberry pi 5 on a fourm post and it's probably
-because the speed is to fast it's an M.2 Gen4 after all.
-
-• So instead of using the M.2 SSD, I decided to use the 256GB SD card instead of the
-M.2 SSD.
+because the speed is to fast it's an M.2 Gen4 after all. So instead of using the M.2 SSD, 
+I decided to use the 256GB SD card instead of the M.2 SSD.
 
 7. The Payoff – What It Does & Use Cases
 
