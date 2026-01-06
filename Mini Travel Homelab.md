@@ -12,3 +12,6 @@ and natural disaster I hate paying per month to have my server on there but I al
 like to know hands on the psychical aspect of it and getting to know more on LAN
 network to connect a device to the WAN internet.
 
+
+
+![2](https://github.com/user-attachments/assets/e44298c1-41eb-4a66-bb42-cd70f64fb0c4)
