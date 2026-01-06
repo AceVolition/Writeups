@@ -24,6 +24,7 @@ o Help newcomers into IT or into Homelab/Infrastructure
 Router: GL.iNet GL-MT3000 (Beryl AX)
 Server: Raspberry Pi 5 with Active Cooler
 Storage: 256GB SD Card
+
 If you buy on amazon, you can see the price history and Maby save cost if you time the right
 price by using CamelCamelCamel.com, the raspberry pi 5 price was $90. I waited till it
 dropped, then I bought it.
