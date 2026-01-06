@@ -1,6 +1,6 @@
 1. The Mini Travel Homelab
 
-• What is it? This homelab is for people who are new to IT or have an interest in
+ What is it? This homelab is for people who are new to IT or have an interest in
 homelab and don't want to spend an upfront cost but also do not want to setup a
 fully racked server using an eBay bought R730 which consumes a lot of electricity
 and can be loud. We will be using a raspberry pi instead of the rackserver and
@@ -14,11 +14,14 @@ network to connect a device to the WAN internet.
 
 2. Goals & Requirements
 Goals:
+
 o Create an isolated lab network for testing.
+
 o Have a portable setup for secure travel.
+
 o Help newcomers into IT or into Homelab/Infrastructure
 
-3. The Gear – Hardware Showcase
+4. The Gear – Hardware Showcase
 ![2](https://github.com/user-attachments/assets/8d4db494-a21a-41fc-91bc-0f3eea2a41d7)
 
 Router: GL.iNet GL-MT3000 (Beryl AX)
@@ -77,4 +80,3 @@ or won't work.
 around with a network virus in the future ( )
 • Final Thought: I would recommend this setup to people starting in IT or who have
 an interest in homelab or have a raspberry pi sitting in the closet collecting dust.
-d
