@@ -30,6 +30,8 @@ o Render (Backend hosting)
 I started by drafting up and making the PRD in Chatgpt after I finalized it I moved it to making the System Design based off the PRD. After finishing those two I then hand off the PRD and System Design DOCs to Codex which will tkae in the PRD and System Design and asked it to build it based off the PRD and System Design Docs. Now I am not a computer science major and I am coming up and learning there is Production and Local. In that you would test your application localy before pushing it into production. Vercel (Frontend), Supabase (Database), Render (Backend) are what I am using to host my applications on. I am aware that the standard for hosting your applications is AWS but For small projects, MVPs, or teams with limited DevOps experience the trio is far faster and easier. AWS becomes necessary when you outgrow the simplicity, need lower long-term cost at scale, require compliance/control, or want to consolidate infrastructure under one provider.
 
 4. The Blueprint
+This is the PRD template that was generated from Chatgpt I then filled this out and hand it back to chatgpt to make the system design before handing over the PRD and System Design to Codex to build the MVP.
+
 # Product Requirements Document
 
 ## Product Name
