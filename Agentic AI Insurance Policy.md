@@ -93,66 +93,66 @@ d
 From t
 
 
-Agentic AI Insurance Policy Analyzer - System Design Document (SDD) 
+   Agentic AI Insurance Policy Analyzer - System Design Document (SDD) 
 
-Version 1.0 
+   Version 1.0 
 
-Default LLM Provider: DeepSeek (Pluggable Architecture) 
+   Default LLM Provider: DeepSeek (Pluggable Architecture) 
 
-1. System Overview 
+   1.System Overview 
 
-The system is an AI-powered SaaS platform that allows users to upload insurance policy PDFs and receive: 
-• Plain-English summaries 
-• Exclusion and risk detection 
-• Claim denial explanations 
-• Appeal recommendations 
-• Policy comparisons 
+   The system is an AI-powered SaaS platform that allows users to upload insurance policy PDFs and receive: 
+   • Plain-English summaries 
+   • Exclusion and risk detection 
+   • Claim denial explanations 
+   • Appeal recommendations 
+   • Policy comparisons 
  
-The platform combines PDF parsing, OCR, agent orchestration, pluggable LLM providers, secure cloud storage, and web/mobile frontends. 
+   The platform combines PDF parsing, OCR, agent orchestration, pluggable LLM providers, secure cloud storage, and web/mobile frontends. 
 
-2. Core Architectural Principle: Pluggable LLM Provider Layer 
+   2. Core Architectural Principle: Pluggable LLM Provider Layer 
 
-The application will use an abstraction layer so any large language model can be swapped without changing business logic. 
+   The application will use an abstraction layer so any large language model can be swapped without changing business logic. 
  
-Default MVP Model: 
-• DeepSeek (to minimize costs) 
+   Default MVP Model: 
+   • DeepSeek (to minimize costs) 
  
-Supported Providers: 
-• DeepSeek 
-• Claude 
-• OpenAI 
-• Gemini 
+   Supported Providers: 
+   • DeepSeek 
+   • Claude 
+   • OpenAI 
+   • Gemini 
  
-Recommended Strategy: 
-• Start with DeepSeek for the MVP 
-• Switch to Claude for more complex legal reasoning if needed 
-• Use multiple providers in production based on task complexity 
+   Recommended Strategy: 
+   • Start with DeepSeek for the MVP 
+   • Switch to Claude for more complex legal reasoning if needed 
+   • Use multiple providers in production based on task complexity 
 
-3. High-Level Architecture 
+   3. High-Level Architecture 
+   
+   Web/Mobile UI (Next.js/React) 
+           ↓ HTTPS 
+   API Gateway (FastAPI) 
+           ↓ 
+   Authentication (Supabase Auth) 
+           ↓ 
+   Document Storage (Supabase Storage) 
+           ↓ 
+   Agent Orchestrator (LangGraph) 
+           ↓ 
+   PDF Parser Agent 
+   Policy Summary Agent 
+   Exclusion Detection Agent 
+   Risk Detection Agent 
+   Claim Denial Agent 
+   Appeal Recommendation Agent 
+   Policy Comparison Agent 
+           ↓ 
+   LLM Provider Layer (DeepSeek default; Claude/OpenAI/Gemini interchangeable) 
+           ↓ 
+   PostgreSQL Database 
 
-Web/Mobile UI (Next.js/React) 
-        ↓ HTTPS 
-API Gateway (FastAPI) 
-        ↓ 
-Authentication (Supabase Auth) 
-        ↓ 
-Document Storage (Supabase Storage) 
-        ↓ 
-Agent Orchestrator (LangGraph) 
-        ↓ 
-PDF Parser Agent 
-Policy Summary Agent 
-Exclusion Detection Agent 
-Risk Detection Agent 
-Claim Denial Agent 
-Appeal Recommendation Agent 
-Policy Comparison Agent 
-        ↓ 
-LLM Provider Layer (DeepSeek default; Claude/OpenAI/Gemini interchangeable) 
-        ↓ 
-PostgreSQL Database 
-
-4. Technology Stack 
+   4.Technology Stack 
 
 Frontend: 
 • Next.js 
