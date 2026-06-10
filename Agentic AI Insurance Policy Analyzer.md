@@ -94,18 +94,8 @@ Open Questions
 ## 5. Tech Stack
 ### Frontend
 
-Next.js App Router
-React
+Next.js App Router; React ; TypeScript ; Tailwind CSS ; shadcn/ui-style components ; Lucide React icons ; Supabase JS client for browser auth
 
-TypeScript
-
-Tailwind CSS
-
-shadcn/ui-style components
-
-Lucide React icons
-
-Supabase JS client for browser auth
 
 Backend
 
