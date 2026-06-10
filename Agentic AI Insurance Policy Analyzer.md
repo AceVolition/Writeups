@@ -94,7 +94,7 @@ Open Questions
 ## 5. Tech Stack
 ### Frontend
 
-#### Next.js App Router
+Next.js App Router
 React
 
 TypeScript
