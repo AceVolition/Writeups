@@ -97,14 +97,9 @@ Open Questions
 Next.js App Router; React ; TypeScript ; Tailwind CSS ; shadcn/ui-style components ; Lucide React icons ; Supabase JS client for browser auth
 
 
-Backend
+### Backend
 
-Python
-FastAPI
-Uvicorn
-Pydantic / Pydantic Settings
-HTTPX for Supabase and LLM API calls
-AI / Agents
+Python ; FastAPI ; Uvicorn ; Pydantic / Pydantic Settings ; HTTPX for Supabase and LLM API calls ; AI / Agents
 
 LangGraph for orchestration
 Supervisor agent workflow
