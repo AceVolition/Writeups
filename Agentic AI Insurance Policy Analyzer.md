@@ -89,7 +89,10 @@ Priority: Should Have
 
 
    
-6. The Brains
-7. The Journey
-8. The Payoff
-9. Conclusion
+5. The Brains
+
+
+
+6. The Journey
+7. The Payoff
+8. Conclusion
