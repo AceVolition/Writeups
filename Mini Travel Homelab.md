@@ -21,7 +21,7 @@ o Have a portable setup for secure travel.
 
 o Help newcomers into IT or into Homelab/Infrastructure
 
-## 3. The Gear – Hardware Showcase
+## 3. The Gear
 ![2](https://github.com/user-attachments/assets/8d4db494-a21a-41fc-91bc-0f3eea2a41d7)
 
 Router: GL.iNet GL-MT3000 (Beryl AX)
@@ -35,7 +35,7 @@ price by using CamelCamelCamel.com, the raspberry pi 5 price was $90. I waited t
 dropped, then I bought it.
 ![3](https://github.com/user-attachments/assets/7db231ee-f11a-4c93-ab54-e657d4027370)
 
-## 4. The Blueprint – Network Diagram & Configuration
+## 4. The Blueprint
 ![4](https://github.com/user-attachments/assets/e616c336-1d67-4192-9421-27a3e53a2bb4)
 
 ## 5. Tech Stack
@@ -62,7 +62,7 @@ ethernet this is in case any complication happens as we want the
 raspberry pi 5 to be able to have access to the internet.”
 ![5](https://github.com/user-attachments/assets/df577088-dad3-4479-8c80-2dd8f43b2702)
 
-## 6. The Journey – Challenges & Solutions
+## 6. The Journey
 
 Originally I wanted to use an M.2 SSD that I use to use in a gaming computer that I
 don't use anymore onto the raspberry pi 5 and after 5 hours of research I have found
@@ -70,7 +70,7 @@ out this SSD does not work on the raspberry pi 5 on a fourm post and it's probab
 because the speed is to fast it's an M.2 Gen4 after all. So instead of using the M.2 SSD, 
 I decided to use the 256GB SD card instead of the M.2 SSD.
 
-## 7. The Payoff – What It Does & Use Cases
+## 7. The Payoff
 
 My daily use.
 
@@ -80,7 +80,7 @@ o Testing environment
 
 o Used as a honeypot
 
-## 8. Conclusion – Lessons Learned & Future Plans
+## 8. Conclusion
 
 Summary: My favorite part from doing this is learning more on how to mess with
 raspberry pi and learned to format the SD card and into booting up an ubuntu server
