@@ -91,7 +91,63 @@ Open Questions
 
 
    
-## 5. The Brains
+## 5. Tech Stack
+Frontend
+
+Next.js App Router
+React
+TypeScript
+Tailwind CSS
+shadcn/ui-style components
+Lucide React icons
+Supabase JS client for browser auth
+Backend
+
+Python
+FastAPI
+Uvicorn
+Pydantic / Pydantic Settings
+HTTPX for Supabase and LLM API calls
+AI / Agents
+
+LangGraph for orchestration
+Supervisor agent workflow
+Specialized agents:
+PDF Parsing Agent
+Policy Summary Agent
+Exclusion Detection Agent
+Risk Detection Agent
+Claim Denial Explanation Agent
+Appeal Recommendation Agent
+Policy Comparison Agent
+LLM Layer
+
+Pluggable provider interface
+DeepSeek as the default provider
+Stub providers for:
+Claude
+OpenAI
+Gemini
+PDF Processing
+
+pdfplumber for PDF text extraction
+pytesseract OCR fallback
+Pillow for image handling
+Database / Storage / Auth
+
+Supabase Auth
+Supabase PostgreSQL
+Supabase Storage for private PDF uploads
+Supabase signed URLs
+Row Level Security policies
+Deployment Targets
+
+Vercel for frontend
+Render for backend
+Supabase for auth, database, and storage
+
+
+
 ## 6. The Journey
 ## 7. The Payoff
 ## 8. Conclusion
