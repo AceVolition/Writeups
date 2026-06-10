@@ -120,5 +120,13 @@ Open Questions
 
 
 ## 6. The Journey
+
+It all started with me learning java (I really do not like that language it ugly to read and it hurts my eyes, I like python better) Java was where I learned the foundational stuff and then I moved to python in which I found it much easier to work with and learn and this was when Chatgpt came around and this is when
+I started using chatgpt to build simple functions but I never thought one day AI could soon build an MVP as I thought it was only good at just building functions or correcting your code but then again this was around Chatgpt 3. Now we are in the phase that the AI can build a fully working MVP and I didnt think it would have gotten this far and so this was my experiment on vibe coding this MVP for the first time.
+
+
+
+
+
 ## 7. The Payoff
 ## 8. Conclusion
