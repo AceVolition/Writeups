@@ -15,9 +15,14 @@ o Saves you time on comparing policy to get better price.
 
 The following is what I used and how I useed them to help make my AI Agent.
 o Chatgpt (PRD & System Design) & Codex 5.5 (High Reasoning)
+
 o VSCode (Editor)
+
 o LangGraph (AI Agent Framework)
+
 o Vercel (Frontend)
+
 o Supabase (Postgres SQL Database)
+
 o Render (Backend)
    
