@@ -10,3 +10,11 @@ o Saves you time on understanding insurance policy and checks and notify you of 
 o Saves you time on Appealing claims that been denied and filing a claim.
 
 o Saves you time on comparing policy to get better price.
+
+3. The Tools
+
+The following is what I used and how I useed them to help make my AI Agent.
+o Chatgpt (PRD & System Design) & Codex 5.5 (High Reasoning)
+o VSCode
+o 
+   
