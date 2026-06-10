@@ -13,7 +13,8 @@ o Saves you time on comparing policy to get better price.
 
 3. The Tools
 
-The following is what I used and how I useed them to help make my AI Agent.
+The following is what I used and how I used them to help make my AI Agent.
+
 o Chatgpt (PRD & System Design) & Codex 5.5 (High Reasoning)
 
 o VSCode (Editor)
