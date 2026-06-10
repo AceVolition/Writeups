@@ -9,4 +9,4 @@ o Saves you time on understanding insurance policy and checks and notify you of 
 
 o Saves you time on Appealing claims that been denied and filing a claim.
 
-o Compares Policy to get better price.
+o Saves you time on comparing policy to get better price.
