@@ -124,9 +124,36 @@ Open Questions
 It all started with me learning java (I really do not like that language it ugly to read and it hurts my eyes, I like python better) Java was where I learned the foundational stuff and then I moved to python in which I found it much easier to work with and learn and this was when Chatgpt came around and this is when
 I started using chatgpt to build simple functions but I never thought one day AI could soon build an MVP as I thought it was only good at just building functions or correcting your code but then again this was around Chatgpt 3. Now we are in the phase that the AI can build a fully working MVP and I didnt think it would have gotten this far and so this was my experiment on vibe coding this MVP for the first time but this was after hours of research.
 
-
-
-
-
 ## 7. The Payoff
+
+Stop guessing what your insurance policy actually covers — and start getting AI‑powered, structured answers in minutes.
+
+With this MVP, you can:
+
+    Upload a policy PDF → get a plain‑English summary of what’s covered, what’s not, and where the risks hide.
+
+    Uncover exclusions, gotchas, and potential claim denials before you file.
+
+    Receive appeal recommendations and claim denial explanations tailored to your policy language.
+
+    Compare policies side‑by‑side to spot differences that actually matter.
+
+    Chat with the policy itself to ask follow‑up questions (like “does this cover water damage from a burst pipe?”).
+
+Behind the scenes, a LangGraph supervisor orchestrates seven specialized agents, turning hours of dense legal/insurance reading into a few clicks. The result is faster, more transparent policy understanding for consumers, advocates, and small businesses.
+
+    Important: This is an educational MVP – not legal or financial advice. Always verify AI output against your original policy and consult a qualified professional before making coverage or claim decisions.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 8. Conclusion
