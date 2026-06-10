@@ -91,10 +91,7 @@ Open Questions
 
 
    
-5. The Brains
-
-
-
-6. The Journey
-7. The Payoff
-8. Conclusion
+## 5. The Brains
+## 6. The Journey
+## 7. The Payoff
+## 8. Conclusion
