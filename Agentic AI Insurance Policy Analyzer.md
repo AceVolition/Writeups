@@ -126,7 +126,7 @@ I started using chatgpt to build simple functions but I never thought one day AI
 
 ## 7. The Payoff
 
-Stop guessing what your insurance policy actually covers — and start getting AI‑powered, structured answers in minutes.
+Stop guessing what your insurance policy actually covers and start getting AI‑powered, structured answers in minutes.
 
 With this MVP, you can:
 
