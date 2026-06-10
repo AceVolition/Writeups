@@ -144,16 +144,7 @@ Behind the scenes, a LangGraph supervisor orchestrates seven specialized agents,
 
     Important: This is an educational MVP and not for legal or financial advice. Always verify AI output against your original policy and consult a qualified professional before making coverage or claim decisions.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 8. Conclusion
+
+
+
