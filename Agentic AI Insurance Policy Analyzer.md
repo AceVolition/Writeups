@@ -109,12 +109,10 @@ Open Questions
 ### Pluggable AI API provider interface
 #### DeepSeek as the default provider Stub providers for: Claude, OpenAI, Gemini
 
-pdfplumber for PDF text extraction
-pytesseract OCR fallback
-Pillow for image handling
-Database / Storage / Auth
+## PDF
+#### pdfplumber for PDF text extraction, pytesseract OCR fallback, Pillow for image handling
 
-### Database
+### Database / Storage / Auth
 #### Supabase Auth, Supabase PostgreSQL, Supabase Storage for private PDF uploads, Supabase signed URLs, Row Level Security Policies, Deployment Targets
 
 ##### Vercel for frontend, Render for backend, Supabase for auth, database, and storage
