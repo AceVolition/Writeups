@@ -115,7 +115,7 @@ Open Questions
 ### Database / Storage / Auth
 #### Supabase Auth, Supabase PostgreSQL, Supabase Storage for private PDF uploads, Supabase signed URLs, Row Level Security Policies, Deployment Targets
 
-### Hosting in PROD: 
+### Hosting in PROD
 #### Vercel for frontend, Render for backend, Supabase for auth, database, and storage
 
 
