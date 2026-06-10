@@ -106,13 +106,9 @@ Open Questions
 #### Specialized agents: PDF Parsing Agent ; Policy Summary Agent ; Exclusion Detection Agent ; Risk Detection Agent ; Claim Denial Explanation Agent ; Appeal Recommendation Agent ; Policy Comparison Agent ; LLM Layer
 
 
-Pluggable provider interface
-DeepSeek as the default provider
-Stub providers for:
-Claude
-OpenAI
-Gemini
-PDF Processing
+### Pluggable AI API provider interface
+#### DeepSeek as the default provider Stub providers for: Claude, OpenAI, Gemini
+
 
 pdfplumber for PDF text extraction
 pytesseract OCR fallback
