@@ -82,7 +82,7 @@ o Used as a honeypot
 
 ## 8. Conclusion
 
-Summary: My favorite part from doing this is learning more on how to mess with
+My favorite part from doing this is learning more on how to mess with
 raspberry pi and learned to format the SD card and into booting up an ubuntu server
 on the raspberry pi I also learned that M.2 SSD cards even Tho works on PC may not
 work on every hardware (such as the raspberry pi). For now, I use the raspberry pi 5
