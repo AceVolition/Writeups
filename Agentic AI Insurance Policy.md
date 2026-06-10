@@ -135,7 +135,9 @@ With this MVP, you can:
 
     Receive appeal recommendations and claim denial explanations tailored to your policy language.
 
-    Compare policies side‑by‑side to spot differences that actually matter.
+    Get notified when a goverment regulation forces change to your policy.
+
+    Compare policies side‑by‑side to spot differences that actually matter and for better price.
 
     Chat with the policy itself to ask follow‑up questions (like “does this cover water damage from a burst pipe?”).
 
