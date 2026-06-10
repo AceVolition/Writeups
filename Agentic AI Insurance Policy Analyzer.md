@@ -5,7 +5,7 @@ This is my first vibe coded AI Agent, I started this inintialy in response to on
 2. Goals & Requirements
 Goals:
 
-o Saves you time on understnading insurance policy and checks and notify you of regulation that change your policy.
+o Saves you time on understanding insurance policy and checks and notify you of regulation that change your policy.
 
 o Saves you time on Appealing claims that been denied
 
