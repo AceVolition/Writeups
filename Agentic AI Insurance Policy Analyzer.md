@@ -142,7 +142,7 @@ With this MVP, you can:
 
 Behind the scenes, a LangGraph supervisor orchestrates seven specialized agents, turning hours of dense legal/insurance reading into a few clicks. The result is faster, more transparent policy understanding for consumers, advocates, and small businesses.
 
-    Important: This is an educational MVP – not legal or financial advice. Always verify AI output against your original policy and consult a qualified professional before making coverage or claim decisions.
+    Important: This is an educational MVP and not for legal or financial advice. Always verify AI output against your original policy and consult a qualified professional before making coverage or claim decisions.
 
 
 
