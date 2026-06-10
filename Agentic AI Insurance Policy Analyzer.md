@@ -95,7 +95,6 @@ Open Questions
 ### Frontend
 
 #### Next.js App Router
-
 React
 
 TypeScript
