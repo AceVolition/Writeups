@@ -27,3 +27,4 @@ o Supabase (Postgres SQL Database hosting)
 
 o Render (Backend hosting)
    
+I started by drafting up and making the PRD in Chatgpt after I finalized it I moved it to making the System Design based off the PRD. After finishing those two I then hand off the PRD and System Design DOCs to Codex which will tkae in the PRD and System Design and asked it to build it based off the PRD and System Design Docs. Now I am not a computer science major and I am coming up and learning there is Production and Local.
