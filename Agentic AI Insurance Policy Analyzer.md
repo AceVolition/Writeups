@@ -21,9 +21,9 @@ o VSCode (Editor)
 
 o LangGraph (AI Agent Framework)
 
-o Vercel (Frontend)
+o Vercel (Frontend hosting)
 
-o Supabase (Postgres SQL Database)
+o Supabase (Postgres SQL Database hosting)
 
-o Render (Backend)
+o Render (Backend hosting)
    
