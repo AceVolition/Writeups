@@ -38,7 +38,7 @@ dropped, then I bought it.
 ## 4. The Blueprint – Network Diagram & Configuration
 ![4](https://github.com/user-attachments/assets/e616c336-1d67-4192-9421-27a3e53a2bb4)
 
-## 5. The Brains – Software & Services Stack & AI
+## 5. Tech Stack
 
 • Stack:
 
