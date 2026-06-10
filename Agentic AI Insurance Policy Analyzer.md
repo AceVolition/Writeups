@@ -7,6 +7,6 @@ Goals:
 
 o Saves you time on understanding insurance policy and checks and notify you of regulation that change your policy.
 
-o Saves you time on Appealing claims that been denied
+o Saves you time on Appealing claims that been denied and filing a claim.
 
 o Compares Policy to get better price.
