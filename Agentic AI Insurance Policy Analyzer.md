@@ -109,7 +109,7 @@ Open Questions
 ### Pluggable AI API provider interface
 #### DeepSeek as the default provider Stub providers for: Claude, OpenAI, Gemini
 
-## PDF
+### PDF
 #### pdfplumber for PDF text extraction, pytesseract OCR fallback, Pillow for image handling
 
 ### Database / Storage / Auth
