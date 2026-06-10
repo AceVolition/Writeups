@@ -33,59 +33,61 @@ I started by drafting up and making the PRD in Chatgpt after I finalized it I mo
 
 This is the PRD template that was generated from Chatgpt I then filled this out and hand it back to chatgpt to make the system design before handing over the PRD and System Design to Codex to build the MVP.
 
-Product Requirements Document
+    1.Product Overview  
 
-Product Name
-[Your Product Name]
+       a.What the product is  
 
-Overview
-[Describe the product and problem being solved.]
+       b.The problem it solves  
 
-Goals
-- Goal 1
-- Goal 2
+       c.Who it is for  
 
-Target Users
-- User Type 1
-- User Type 2
+    2.Goals and Success Metrics  
 
-Core Features
+       a.Desired outcomes  
 
-Feature 1
-Description:
-Requirements:
-Priority: Must Have
+       b.KPIs or measurable targets  
 
-Feature 2
-Description:
-Requirements:
-Priority: Should Have
+    3.Target Users  
 
-User Stories
-- As a user, I want to...
-- As an admin, I want to...
+       a.Personas and user needs  
 
-Technical Requirements
-- Web application built with...
-- Database...
-- Authentication...
+    4.Core Features  
 
-Success Metrics
-- Number of users
-- Conversion rate
-- Retention rate
+       a.Functional requirements  
 
-MVP Scope
-- Included features
-- Excluded features
+       b.Priority levels (Must Have, Should Have, Nice to Have)  
 
-Timeline
-- Phase 1:
-- Phase 2:
+    5.User Stories  
 
-Open Questions
-- Question 1
-- Question 2
+       a.Example: “As a user, I want to save my progress so that I can continue later.”  
+
+    6.Technical Requirements  
+
+       a.Platforms (web, mobile, desktop)  
+
+       b.Integrations and APIs  
+
+       c.Performance and security expectations  
+
+    7.UX Requirements  
+
+       a.Navigation and workflows  
+
+       b.Design references  
+
+    8.Constraints and Assumptions  
+
+       a.Budget, timeline, technology choices  
+
+    9.Milestones  
+
+       a.MVP scope  
+
+       b.Future phases  
+
+    10.Open Questions  
+
+       a.Areas needing further decisions 
 
 
 
