@@ -94,24 +94,17 @@ Open Questions
 ## 5. Tech Stack
 ### Frontend
 
-Next.js App Router; React ; TypeScript ; Tailwind CSS ; shadcn/ui-style components ; Lucide React icons ; Supabase JS client for browser auth
+#### Next.js App Router; React ; TypeScript ; Tailwind CSS ; shadcn/ui-style components ; Lucide React icons ; Supabase JS client for browser auth
 
 
 ### Backend
 
-Python ; FastAPI ; Uvicorn ; Pydantic / Pydantic Settings ; HTTPX for Supabase and LLM API calls ; AI / Agents
+#### Python ; FastAPI ; Uvicorn ; Pydantic / Pydantic Settings ; HTTPX for Supabase and LLM API calls ; AI / Agents ; LangGraph for orchestration
 
-LangGraph for orchestration
-Supervisor agent workflow
-Specialized agents:
-PDF Parsing Agent
-Policy Summary Agent
-Exclusion Detection Agent
-Risk Detection Agent
-Claim Denial Explanation Agent
-Appeal Recommendation Agent
-Policy Comparison Agent
-LLM Layer
+### Supervisor agent workflow
+
+#### Specialized agents: PDF Parsing Agent ; Policy Summary Agent ; Exclusion Detection Agent ; Risk Detection Agent ; Claim Denial Explanation Agent ; Appeal Recommendation Agent ; Policy Comparison Agent ; LLM Layer
+
 
 Pluggable provider interface
 DeepSeek as the default provider
